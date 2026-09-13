@@ -19,8 +19,3 @@ PHP ve MySQL kullanılarak geliştirilmiş güvenli, basit bir kullanıcı kayı
 * MySQL
 * PDO
 * Bootstrap 5
-
-## Kurulum
-1. Projeyi klonlayın:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADI/REPO_ADI.git](https://github.com/KULLANICI_ADI/REPO_ADI.git)
